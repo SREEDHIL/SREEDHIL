@@ -15,23 +15,46 @@
 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,gcp,react,git,py,tailwind,vscode,cpp,express,figma,github,md,mongodb,mysql,netlify,npm,postman,powershell,figma&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,aws,gcp,react,git,py,tailwind,vscode,cpp,express,figma,github,md,mongodb,mysql,netlify,npm,postman,powershell,figma&theme=light" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SREEDHIL&theme=holi&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=SREEDHIL&theme=holi&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SREEDHIL&theme=holi&hide_border=false&layout=compact)
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=SREEDHIL&theme=holi&hide_border=falseinclude_all_commits=true&count_private=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=SREEDHIL&theme=holi&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SREEDHIL&theme=holi&hide_border=false&layout=compact" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=SREEDHIL&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app">
+    <img src="https://github-profile-trophy.vercel.app/?username=SREEDHIL&theme=date_night&no-frame=false&no-bg=false&margin-w=4" />
+  </a>
+</p>
+
+
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SREEDHIL&icon=6&color=8)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SREEDHIL&icon=6&color=8)](https://visitcount.itsvg.in" />
+  </a>
+</p>
+
+
 
 ---
 ## 🌐 Connect with Me:
