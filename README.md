@@ -1,6 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sreedhil.sreedhil"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&color=0F8BF7&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+SREEDHIL+PAVISHANKER+B;Software+Product+Engineer;Kalvium+%E2%80%93+LPU+(2024%E2%80%932028))](https://git.io/typing-svg)
+<br/>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&color=0F8BF7&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+SREEDHIL+PAVISHANKER+B;Software+Product+Engineer;Kalvium+%E2%80%93+LPU+(2024%E2%80%932028" />
+  </a>
+</p>
 
 ---
 <div align="center">
