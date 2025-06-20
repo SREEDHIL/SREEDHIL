@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&pause=1000&color=0F8BF7&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+SREEDHIL+PAVISHANKER+B;Software+Product+Engineer;Kalvium+%E2%80%93+LPU+(2024%E2%80%932028))](https://git.io/typing-svg)
 
 ---
+<div align="center">
+  <h2>My Contributions.</h2>
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sreedhil/sreedhil/output/github-contribution-grid-snake.svg"/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <br/><br/><br/>
+</div>
 
 ---
 
