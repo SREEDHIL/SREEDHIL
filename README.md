@@ -44,18 +44,6 @@
   </a>
 </p>
 
-
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SREEDHIL&icon=6&color=8)](https://visitcount.itsvg.in" />
-  </a>
-</p>
-
-
-
 ---
 ## 🌐 Connect with Me:
 
