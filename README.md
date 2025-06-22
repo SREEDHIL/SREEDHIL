@@ -7,15 +7,7 @@
 </p>
 
 ---
-<div align="center">
-  <h2>My Contributions.</h2>
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sreedhil/sreedhil/output/github-contribution-grid-snake.svg"/>
 
-  <br/><br/><br/>
-</div>
-
----
 
 
 ## 💻 Tech Stack:
@@ -57,6 +49,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedhil-pavishanker-b-476a72306/)  
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sreedhilpavishanker@gmail.com)
+  
 </p>
 
 
